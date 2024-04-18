@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ragum02 from france,
-- I'm trying to learn full stack web development from zero
+- I'm a full beginner and i start from zero !
   
 
