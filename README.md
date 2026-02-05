@@ -1,23 +1,16 @@
 
 <h1>Bonjour, moi c'est Benjamin</h1>
-<p>Je suis un développeur junior, passionné par l’informatique depuis mon plus jeune âge. J’ai toujours aimé comprendre comment les choses fonctionnent derrière l’écran, démonter, bidouiller, expérimenter... et aujourd’hui, je transforme cette curiosité en compétences concrètes en développement.
+<p>Je suis un développeur junior, passionné par l’informatique depuis mon plus jeune âge. J’ai toujours aimé comprendre comment les choses fonctionnent derrière l’écran, démonter, bidouiller, expérimenter... et aujourd’hui, je transforme cette curiosité en compétences concrètes.
 
 🎮 Gamer dans l’âme, j’ai toujours aimé bidouiller les fichiers, créer des serveurs privés (Lineage 2, WoW, etc.), ainsi que des mods/maps pour des jeux tels que Counter-Strike...
 🧠 J'adore apprendre, découvrir sans cesse de nouvelles choses !
-
-Sur ce compte, il y aura mes projets, mes tests, mes progrès — bref, un aperçu de mon aventure dans le monde du développement.
-
-🚀 En route vers le métier de développeur, une ligne de code à la fois !</p>
+</p>
 
 <h1>Hello, I'm Benjamin</h1>
 <p>I’m a junior developer, passionate about computers and technology since I was a kid. I've always loved understanding how things work behind the screen—taking things apart, tinkering, experimenting... and now, I’m turning that curiosity into real development skills.
 
 🎮 A gamer at heart, I’ve always enjoyed messing with files, creating private servers (Lineage 2, WoW, etc.), and making mods/maps for games like Counter-Strike...  
 🧠 I love learning and constantly discovering new things!
-
-On this account, you'll find my projects, experiments, and progress—in short, a glimpse into my journey as a developer.
-
-🚀 On the path to becoming a developer, one line of code at a time!
 </p>
 
 
