@@ -1,7 +1,7 @@
 
 
 <h1>Hello, I'm Benjamin</h1>
-🎮 A gamer at heart !
+🎮 A gamer at heart !</br>
 🧠 I love learning and constantly discovering new things!
 </p>
 
